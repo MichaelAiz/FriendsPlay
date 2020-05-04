@@ -4,10 +4,6 @@ if (navigator.platform.indexOf("Mac")!=-1) OSName="MacOS";
 if (navigator.platform.indexOf("X11")!=-1) OSName="Unix";
 if (navigator.platform.indexOf("Linux")!=-1) OSName="Linux";
 if (navigator.platform.indexOf("iPhone")!=-1) OSName="iOS";
+if (navigator.platform.indexOf("Pike")!=-1) OSName="iOS";
 if (navigator.platform.indexOf("Android")!=-1) OSName="Android";
 alert(OSName);
-if( iPhone.test(navigator.userAgent) ) {
-    alert("Androids Rule");
-   } else {
-    alert("Congratulations, you're not using an iPhone");
-   }
