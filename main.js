@@ -6,4 +6,3 @@ if (navigator.platform.indexOf("Linux")!=-1) OSName="Linux";
 if (navigator.platform.indexOf("iPhone")!=-1) OSName="iOS";
 if (navigator.platform.indexOf("Pike")!=-1) OSName="iOS";
 if (navigator.platform.indexOf("Android")!=-1) OSName="Android";
-alert(OSName);
