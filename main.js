@@ -9,7 +9,6 @@ if (navigator.platform.indexOf("Android")!=-1) OSName="Android";
 const link1= document.querySelector('#game-link-1');
 const link2= document.querySelector('#game-link-2');
 const link3= document.querySelector('#game-link-3');
-alert(link1);
 if (OSName != "Android"){
     link1.setAttribute('href', 'https://www.apple.com/ca/itunes/');
     link1.innerHTML="iTunes";
