@@ -7,6 +7,7 @@ if (navigator.platform.indexOf("iPhone")!=-1) OSName="iOS";
 if (navigator.platform.indexOf("Pike")!=-1) OSName="iOS";
 if (navigator.platform.indexOf("Android")!=-1) OSName="Android";
 if (navigator.platform.indexOf("null")!=-1) OSName="Android";
+alert("You are using" + OSName);
 const link1= document.querySelector('#game-link-1');
 const link2= document.querySelector('#game-link-2');
 const link3= document.querySelector('#game-link-3');
