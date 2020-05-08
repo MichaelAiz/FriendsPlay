@@ -59,7 +59,7 @@ p{
     opacity:0.5;
 }
 #showcase h1 {
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom:0;
 }
 #showcase .content-wrap,
@@ -67,12 +67,6 @@ p{
     padding: 0 1.5em;
 }
 
-/* Section A */
-#section-a {
-    background:#eaeaea;
-    color:#333;
-    padding-bottom: 2em;
-}
 
 /* Section B */
 #section-b {
@@ -93,21 +87,19 @@ p{
     padding: 1.5em;
 }
 
-#section-c{
-    background: #fff;
-    color: #333;
-    padding: 2em;
-}
 
 #section-d .box{
     padding: 2em;
     color:white;
 }
 
+#section-d .box{
+    background: black;
+}
 #section-d .box:first-child{
     background: #2690d4;
 }
-/* Footer */
+/* Footer 
 
 #main-footer{
     padding: 2em;
@@ -118,7 +110,7 @@ p{
 #main-footer a{
     color: #2690d4;
     text-decoration: none;
-}
+}*/
 
 /* Media Queries */
 @media(min-width: 700px){
@@ -151,5 +143,12 @@ p{
     }
     #section-b .card img{
         height:200px;
+    }
+    .card-content{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+    .game-link{
     }
 }
