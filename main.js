@@ -10,6 +10,7 @@ if (navigator.platform.indexOf("null")!=-1) OSName="Android";
 const link1= document.querySelector('#game-link-1');
 const link2= document.querySelector('#game-link-2');
 const link3= document.querySelector('#game-link-3');
+const link4= document.querySelector('#game-link-4');
 if (OSName !="Android"){
     link1.setAttribute('href', 'https://www.apple.com/ca/itunes/');
     link1.innerHTML="iTunes";
@@ -17,5 +18,7 @@ if (OSName !="Android"){
     link2.innerHTML="iTunes";
     link3.setAttribute('href', 'https://www.apple.com/ca/itunes/');
     link3.innerHTML="iTunes";
+    link4.setAttribute('href', 'https://www.apple.com/ca/itunes/');
+    link4.innerHTML="iTunes";
 }
 

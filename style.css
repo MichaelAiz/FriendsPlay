@@ -116,7 +116,7 @@ p{
 @media(min-width: 700px){
     .grid{
         display:grid;
-        grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
+        grid-template-columns: 1fr repeat(2, minmax(auto, 30em)) 1fr;
     }
 
     #section-a .content-text{
@@ -135,18 +135,32 @@ p{
         grid-column: span 2;
     }
     #section-b ul{
-        display:flex;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
         justify-content: space-around;
     }
     #section-b li{
-        width:31%;
+        margin-left: 1em;
     }
     #section-b .card img{
-        height:200px;
+        height:300px;
     }
     .card-content{
         display:flex;
         flex-wrap:wrap;
         justify-content:center;
+    }
+}
+@media (min-width:1076px){
+    #section-b {
+        grid-template-columns: 1fr repeat(3, minmax(auto, 30em)) 1fr ;
+    }
+    #section-b ul{
+        display: flex;
+        grid-column: 2/5;
+        justify-content: center;
+    }
+    #section-b li{
+        width:23%;
     }
 }
