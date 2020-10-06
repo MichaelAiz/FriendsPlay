@@ -2135,7 +2135,57 @@
 					}
 				},
 				{
+					"filename": "player_stop_00",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1052,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
 					"filename": "player_jump_06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 578,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_01",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -2185,6 +2235,31 @@
 					}
 				},
 				{
+					"filename": "player_stop_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1144,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
 					"filename": "player_jump_08",
 					"rotated": false,
 					"trimmed": false,
@@ -2210,7 +2285,182 @@
 					}
 				},
 				{
+					"filename": "player_stop_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 710,
+						"y": 1052,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
 					"filename": "player_jump_09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 90
+					},
+					"frame": {
+						"x": 644,
+						"y": 1236,
+						"w": 64,
+						"h": 90
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 1
+					}
+				},
+				{
+					"filename": "player_stop_09",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -4215,6 +4465,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:f1ddb05bd1da7b8d2ccecb9ec9a121ff:729530e2d372d150285c319ce8d1e311:cbce6b53f0f49e0bf15173c25c41f876$"
+		"smartupdate": "$TexturePacker:SmartUpdate:9b7e975dd5afc429d9516c89fd05615e:163eb7da18e199e3494dfc0c2762161f:cbce6b53f0f49e0bf15173c25c41f876$"
 	}
 }
