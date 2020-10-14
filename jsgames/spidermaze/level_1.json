@@ -186,7 +186,7 @@
                  "type":"",
                  "visible":true,
                  "width":64,
-                 "x":2304,
+                 "x":2240,
                  "y":270
                 }, 
                 {
@@ -222,7 +222,7 @@
                  "type":"",
                  "visible":true,
                  "width":64,
-                 "x":192,
+                 "x":256,
                  "y":540
                 }],
          "opacity":1,
