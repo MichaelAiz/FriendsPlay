@@ -1,0 +1,54 @@
+{
+  "resources": [
+    "./audio.ogg",
+    "./audio.mp3",
+    "./audio.m4a"
+  ],
+  "spritemap": {
+    "Button": {
+      "start": 0,
+      "end": 0.1306122448979592,
+      "loop": false
+    },
+    "cannon_shot": {
+      "start": 2,
+      "end": 2.9977551020408164,
+      "loop": false
+    },
+    "friend_hit": {
+      "start": 4,
+      "end": 5.266485260770975,
+      "loop": false
+    },
+    "monster_hit_01": {
+      "start": 7,
+      "end": 7.547936507936508,
+      "loop": false
+    },
+    "monster_hit_02": {
+      "start": 9,
+      "end": 9.622675736961451,
+      "loop": false
+    },
+    "monster_hit_03": {
+      "start": 11,
+      "end": 11.49814058956916,
+      "loop": false
+    },
+    "monster_hit_04": {
+      "start": 13,
+      "end": 13.672517006802721,
+      "loop": false
+    },
+    "monster_hit_05": {
+      "start": 15,
+      "end": 15.597777777777777,
+      "loop": false
+    },
+    "monster_hit_06": {
+      "start": 17,
+      "end": 17.72231292517007,
+      "loop": false
+    }
+  }
+}
