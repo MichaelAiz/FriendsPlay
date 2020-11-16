@@ -1,0 +1,49 @@
+{
+  "resources": [
+    "./audio.ogg",
+    "./audio.mp3",
+    "./audio.m4a"
+  ],
+  "spritemap": {
+    "BallLost": {
+      "start": 0,
+      "end": 3.8984807256235827,
+      "loop": false
+    },
+    "IntroBackground": {
+      "start": 5,
+      "end": 28.26358276643991,
+      "loop": false
+    },
+    "NewRound": {
+      "start": 30,
+      "end": 32.851836734693876,
+      "loop": false
+    },
+    "ObstacleHit": {
+      "start": 34,
+      "end": 34.222585034013605,
+      "loop": false
+    },
+    "PlatformHit": {
+      "start": 36,
+      "end": 37.00251700680272,
+      "loop": false
+    },
+    "VirusHit": {
+      "start": 39,
+      "end": 40.881179138322,
+      "loop": false
+    },
+    "WallsReflection": {
+      "start": 42,
+      "end": 43.179909297052156,
+      "loop": false
+    },
+    "ZButton": {
+      "start": 45,
+      "end": 45.160385487528345,
+      "loop": false
+    }
+  }
+}
